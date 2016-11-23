@@ -4,7 +4,8 @@
   "description": "first test ",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "npm test",
+    "start": "node index.js"
   },
   "author": "Mattia Salnitri",
   "license": "ISC",
