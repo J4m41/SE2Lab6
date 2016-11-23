@@ -4,7 +4,7 @@
   "description": "first test ",
   "main": "index.js",
   "scripts": {
-    "test": "npm test",
+    "test": "./node_modules/.bin/jasmine spec",
     "start": "node index.js"
   },
   "author": "Mattia Salnitri",

@@ -19,7 +19,7 @@ var safeUsername = function safeUsername(username){
  * @brief This function store the username in input
  * @param String username the username to store
  */
-var storeUsername = function (username){
+var storeUsername = function storeUsername(username){
     
     //if it is already present increment number
     for (i=0; i < partList.length; i++){
